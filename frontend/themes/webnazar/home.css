@@ -1,0 +1,25 @@
+    
+.tfsearch {
+	
+	margin: 0 10px 0px 0;
+	
+}    
+
+:host(.tfsearch) [part="input-field"] {
+   
+	padding: 5px 5px 5px 5px;
+	border-radius: 25px;
+}
+
+:host(.tfsearch) [part="label"] {
+   
+	margin-left: 15px;
+	color: hsl(204, 78%, 27%);
+}
+
+:host(.tfsearch) [part="helper-text"] {
+   
+	color: hsl(36, 99%, 41%);
+	
+	
+}
