@@ -4,10 +4,10 @@ import java.util.HashMap;
 
 public class Constant {
 
-	public static String TWITTER_OAUTH2_CLIENT_ID = "UDV2cmRoUnd0bF9CcjVwbTFfOWk6MTpjaQ";
-	public static String TWITTER_OAUTH2_CLIENT_SECRET = "5xy-S7xX5RM5XosW_oecaOL79B9Z1xmk4JubkAIDN9xHTczay_";
+	public static String TWITTER_OAUTH2_CLIENT_ID = "XXX";
+	public static String TWITTER_OAUTH2_CLIENT_SECRET = "XXX";
 	
-	public static String TWITTER_BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAJrWaQEAAAAAF3eZNPw77C0FRJ4XQh46EYGIb%2BI%3DAAaCxZikYo15AgXZj8SuSiQGAc3WSo6d71ieZL3oexzJxN187A";
+	public static String TWITTER_BEARER_TOKEN = "XXX";
 	
 	public static String DOMAIN = "http://www.webnazar.com/";
 	
